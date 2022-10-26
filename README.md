@@ -94,7 +94,7 @@
   </a>
 </p>
 
-### IED
+### IDE
 
 <p align="left">
   <a href="https://skillicons.dev">
