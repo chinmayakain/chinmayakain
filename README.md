@@ -78,7 +78,7 @@
   </a>
 </p>
 
-### Utilities
+### Bundler
 
 <p align="left">
   <a href="https://skillicons.dev">
