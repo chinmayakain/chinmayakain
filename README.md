@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Chinmaya Naik</h1>
-<h3 align="center">A passionate Full Stack Developer based in Bangalore, India</h3>
+<h3 align="center">A Full Stack Developer based in Bangalore, India</h3>
 
 <br>
 
