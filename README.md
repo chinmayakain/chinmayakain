@@ -42,7 +42,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,python" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python" />
   </a>
 </p>
 
@@ -50,15 +50,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,express" />
-  </a>
-</p>
-
-### StyleSheets
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,tailwind,emotion,tailwind,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,express,emotion,tailwind,bootstrap,materialui" />
   </a>
 </p>
 
