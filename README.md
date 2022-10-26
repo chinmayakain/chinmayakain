@@ -103,7 +103,7 @@
 </p>
 
 
-## Statistics
+<h2> Statistics <img src="https://giphy.com/embed/cj87CxfRtrUifF3Ryk" width=32px></img></h2>
 
 <p align="center">
 <a href="https://github-readme-streak-stats.herokuapp.com/">
