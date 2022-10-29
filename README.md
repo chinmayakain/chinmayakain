@@ -21,13 +21,13 @@
 <h2 align="left"> Languages <h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,python"  />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,c,python"  />
   </a>
 
 <h2 align="left"> Frontend Libraries & Frameworks<h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,emotion,styledcomponents,bootstrap,materialui,sass,webpack"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,css,tailwind,emotion,styledcomponents,bootstrap,materialui,sass,webpack"/>
   </a>
 
 <h2 align="left"> Backend Frameworks<h2>
