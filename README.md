@@ -14,27 +14,6 @@
 >
 > -   ⚡ Fun fact about me **I prefer Tea over Coffee**
 
-<br/>
-
-<h2 display="flex" alignItems="center">Connect with me  <img src='/assets/gifs/handshake.gif'width="100" height="51.83"></h2>
-<br/>
-
-<p align="center">
-    <a href="https://linkedin.com/in/chinmaya-naik" target="blank">
-        <img align="center" src="https://skillicons.dev/icons?i=linkedin alt="chinmaya-naik"/>
-    </a>
-    <a href="https://instagram.com/i_prevail" target="blank">
-        <img align="center" src="https://skillicons.dev/icons?i=instagram alt="i_prevail" />
-    </a>
-    <a href="https://twitter.com/thechinmayanaik" target="blank">
-        <img align="center" src="https://skillicons.dev/icons?i=twitter alt="thechinmayanaik" />
-    </a>
-    <a href="https://fb.com/chinmayanaik.009" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="48" width="48"alt="chinmayanaik.009"/>
-    </a>
-</p>
-<br/>
-
 <h2 align="left">Languages and Tools  <img src = "/assets/gifs/tag.gif" width = 32px> </h2>
 
 <div>
@@ -126,6 +105,25 @@
 </table>
 
 <br>
+<br/>
+
+<h2 display="flex" alignItems="center">Connect with me  <img src='/assets/gifs/handshake.gif'width="100" height="51.83"></h2>
+<br/>
+
+<p align="center">
+    <a href="https://linkedin.com/in/chinmaya-naik" target="blank">
+        <img align="center" src="https://skillicons.dev/icons?i=linkedin alt="chinmaya-naik"/>
+    </a>
+    <a href="https://instagram.com/i_prevail" target="blank">
+        <img align="center" src="https://skillicons.dev/icons?i=instagram alt="i_prevail" />
+    </a>
+    <a href="https://twitter.com/thechinmayanaik" target="blank">
+        <img align="center" src="https://skillicons.dev/icons?i=twitter alt="thechinmayanaik" />
+    </a>
+    <a href="https://fb.com/chinmayanaik.009" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="48" width="48"alt="chinmayanaik.009"/>
+    </a>
+</p>
 <br/>
 
 ---
