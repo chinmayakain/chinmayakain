@@ -21,7 +21,7 @@
 <h2 align="left"> Languages <h2>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python"  />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,python"  />
   </a>
 
 <h2 align="left"> Frontend Libraries & Frameworks<h2>
