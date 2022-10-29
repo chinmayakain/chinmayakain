@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=express,nodejs"/>
     <img src="/assets/logos/sequelizejs-icon.svg" height="50px" />
     <img src="/assets/logos/nodemonio-icon.svg" height="50px" />
-    <img src="/assets/logos/mongoosev2.png" height="50px" />
+    <img src="/assets/logos/mongoosev3.png" height="50px" />
     <img src="/assets/logos/apache_kafka-ar21.svg" height="50px" />
     <img src="/assets/logos/npmjs-ar21.svg" height="50px" />
   </a>
@@ -57,6 +57,14 @@
   </a>
 </p>
 
+<h2 align="left"> Scripting Languages <h2>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell" />
+  </a>
+</p>
+
 <h2 align="left"> Designing Tools <h2>
 
 <p align="left">
@@ -73,14 +81,6 @@
     <img src="/assets/logos/getpostman-icon.svg" height="50px" />
     <img src="/assets/logos/atlassian_jira-icon.svg" height="50px" />
     <img src="/assets/logos/slack-tile.svg" height="50px" />
-  </a>
-</p>
-
-<h2 align="left"> Scripting Languages <h2>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell" />
   </a>
 </p>
 
