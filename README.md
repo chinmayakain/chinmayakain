@@ -4,7 +4,7 @@
 
 ![Visitor](https://komarev.com/ghpvc/?username=chinmayakain&label=Profile%20Views&color=0e75b6&style=plastic) [![GitHub followers](https://img.shields.io/github/followers/chinmayakain.svg?style=social&label=Follow)](https://github.com/chinmayakain?tab=followers)<br/>
 
-> -   🔭 I’m currently working as a Software Engineer at [Codosphere inc](https://www.codosphere.com/)
+> -   🔭 I’m currently working as a Software Engineer
 >
 > -   🌱 I’m currently learning **React Native development, UI/UX Design, Project Management**
 >
